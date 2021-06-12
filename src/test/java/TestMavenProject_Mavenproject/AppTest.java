@@ -78,6 +78,7 @@ public class AppTest {
 	public void p()
 	{
 		System.out.println("P=-2");
+ System.out.println("santosh");
 	}
 	
 	@Test(priority=-2)
